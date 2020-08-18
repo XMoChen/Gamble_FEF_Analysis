@@ -1,0 +1,12 @@
+*.mat
+*.fig
+*.png
+*.jpg
+*.eps
+*.pdf
+*.csv
+
+
+data1/
+figure/
+test/
